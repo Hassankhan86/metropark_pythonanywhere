@@ -1,1 +1,1 @@
- web: gunicorn insta_bot.wsgi --log-file -
+ web: gunicorn metropark.wsgi --log-file -
