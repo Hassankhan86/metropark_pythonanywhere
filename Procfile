@@ -1,0 +1,1 @@
+ web: gunicorn insta_bot.wsgi --log-file -
